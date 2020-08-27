@@ -43,3 +43,7 @@ Note:The images used in the preview are not included in the download packages.
     ^ Updated to Bootstrap 4
     ^ Documentation Update
     ^ Online Documentation
+    
+# Screenshots
+
+![](https://github.com/Harikrishna2410/themeforest-HTML-music-template/blob/master/screencapture-file-C-Users-HK-Desktop-MxTonz-Main-Template-index-html-2020-08-27-15_24_34.png?raw=true)
